@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Mindset</string>
+    <string name="biblioteca">Library</string>
+    <string name="botaoLoja">Store</string>
+    <string name="botaoNovaCitacao">New</string>
+    <string name="sobre">About</string>
+    <string name="sobreoapp">About</string>
+    <string name="avisoAds">"You will see an AD"</string>
+
+
+    //NOME DOS LIVROS
+    <string name="aleidotriunfo">Law of Success</string>
+    <string name="eclesiastes">Ecclesiastes</string>
+    <string name="fazeramigos">Win Friends</string>
+    <string name="pairicopaipobre">Rich Dad, Poor Dad</string>
+    <string name="proverbios">Proverbs</string>
+    <string name="segredosdamentemilionaria">Millionaire Mind</string>
+    <string name="ohomemmaisricodababilonia">The Richest Man</string>
+    <string name="aartedofodase">Not Giving A F*ck</string>
+
+
+
+
+
+    //STRING PRA TESTAR
+    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+
+    <!-- ERROR MESSAGE -->
+    <string name="falha">Something unexpected happened. We are working to fix the error.</string>
+
+    <!-- STORE -->
+    <string name="titulovisitarloja">"Visit the Store"</string>
+    <string name="mensagemvisitarloja">"The store will be opened in your browser"</string>
+    <string name="botaosim">YES</string>
+    <string name="botaonao">NO</string>
+
+    <!-- SHARING -->
+    <string name="botaoCompartilhar">Share</string>
+    <string name="Paramaisfrasescomoesta">For more quotes like this:</string>
+    <string name="CompartilharTituloIntent">Share</string>
+    <string name="TextoCopiadoCasoFacebookColeotexto">"Text Copied. For Facebook: Paste the text"</string>
+
+
+
+    <!-- ABOUT THE BOOKS -->
+    <string name="sobreoapptexto">Cats House Development built the Sabedoria Diaria
+        app as an Ad Supported app. This SERVICE is provided by
+        Cats House Development at no cost and is intended for use as is.
+        This page is used to inform visitors regarding my policies with the collection,
+        use, and disclosure of Personal Information if anyone decided to use my Service.
+        If you choose to use my Service, then you agree to the collection and use of information
+        in relation to this policy. The Personal Information that I collect is used for providing
+        and improving the Service. I will not use or share your information with anyone except as
+        described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings
+        as in our Terms and Conditions, which are accessible at Sabedoria Diaria unless otherwise defined
+        in this Privacy Policy. Information Collection and Use For a better experience, while using our Service,
+        I may require you to provide us with certain personally identifiable information, including but not limited
+        to external storage, location. The information that I request will be retained on your device and is not collected
+        by me in any way. The app does use third-party services that may collect information used to identify you. Link to
+        the privacy policy of third-party service providers used by the app Google Play Services AdMob Google Analytics for
+        Firebase Firebase Crashlytics Facebook Appodeal Log Data I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics. Cookies Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory. This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. Service Providers I may employ third-party companies and individuals due to the following reasons: To facilitate our Service; To provide the Service on our behalf; To perform Service-related services; or To assist us in analyzing how our Service is used. I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. Security I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security. Links to Other Sites This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. Children’s Privacy These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions. Changes to This Privacy Policy I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. This policy is effective as of 2022-05-12 Contact Us If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at catshousedevelopment@hotmail.com. This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+    </string>
+
+
+
+    <string name="sobreproverbios">A Manual of Wisdom for Life
+
+The book of Proverbs is an inexhaustible reservoir of wisdom. Not the wisdom of men, but the wisdom of God. The great themes of human life are addressed here, such as marriage, family, children, friendships, communication, money, work, and prosperity. The book warns of the various dangers that threaten us, such as bad company, adultery, greed, laziness, lies, and injustice. Additionally, the book eloquently addresses the correct relationship between man and God, with his neighbor, and with himself.
+
+Studying Proverbs is enrolling in the higher school of the Holy Spirit and learning the eternal principles of God for a wise, godly, and blessed life. The message of this book will bring light to your mind and fire to your heart.</string>
+
+
+    <string name="sobrepairico">Does school prepare children for the real world? This is the first question the reader encounters in this book. The message is bold and direct: a good education and high grades are not enough to ensure someones success. The world has changed; most young people have credit cards even before completing their studies and have never had a lesson on money, investments, interest, etc. In other words, they go to school, but they remain financially inefficient, unprepared to face a world that values expenses more than savings.
+
+For the author, the most dangerous advice that can be given to a young person today is: Go to school, get good grades, and then find a secure job. The fact is that the rules are different now, and there are no more guaranteed jobs for anyone.
+
+The book demonstrates that the issue is not being employed or an employer, but having control of ones own destiny or delegating it to someone else. This is the thesis of Robert Kiyosaki in this substantial and visionary book. He believes that the education provided by the educational system does not prepare young people for the world they will encounter after graduation. And how can parents teach their children what school neglects? This is another of the many questions that the reader finds in Pai Rico, Pai Pobre. In this sense, the author s proposal is to make the task easier for parents. Those who understand accounting should forget their academic knowledge because many of the theories exposed by Robert Kiyosaki contradict commonly accepted accounting principles and present a valuable and modern perception of how investments are made.
+
+Society undergoes radical changes, perhaps of greater proportions than those that occurred in past centuries. There is no crystal ball, but one thing is certain: the global perspective of transformations transcends our immediate reality. Whatever happens, there are only two alternatives: security or financial independence. And the goal of Pai Rico, Pai Pobre is to instruct the reader and awaken their financial intelligence and that of their children.
+
+The main reason why people have financial problems is that they spent years in school but learned nothing about money. The result is that they learn to work for money... but never to make it work for them. - Robert Kiyosaki.</string>
+
+
+    <string name="sobrementemilionaria">Learn to enrich yourself by changing your concepts about money and adopting the habits of successful people. T. Harv Eker demystifies why some people are destined for wealth and others for a life of hardship. If you want to know the fundamental causes of success, read this book." - Robert G. Allen, author of The One Minute Millionaire.
+
+If your finances are on the tightrope, maybe its time for you to reflect on what T. Harv Eker calls your money blueprint – a set of beliefs that each of us nurtures since childhood and that shapes our financial destiny, often leading us into difficult situations.
+
+In this book, Eker shows how to replace a destructive mindset – which you may not even realize you have – with wealth files, 17 ways of thinking and acting that distinguish the rich from others. Some of these fundamental principles are:
+
+Either you control your money or it will control you.
+The habit of managing finances is more important than the amount of money you have.
+Your motivation to enrich yourself is crucial: if it has a negative root, such as fear, anger, or the need to prove something to yourself, money will never bring you happiness.
+The secret of success is not to try to avoid problems or get rid of them, but to grow personally to become greater than any adversity.
+Excessive spending has little to do with what you are buying and everything to do with the lack of satisfaction in your life.
+The author also teaches an efficient method of managing money. You will learn to establish your compensation based on the results you present, not the hours you work. Additionally, you will know how to increase your net worth – the true measure of wealth.
+
+The idea is to make your money work for you as much as you work for it. For this, it is necessary to save and invest instead of spending. Getting rich is not just about becoming financially rich, says Eker. It s more than that: it s about the person you become to achieve that goal.
+
+
+
+
+</string>
+
+
+    <string name="sobrealeidotriunfo">"16 practical lessons for success, a timeless classic in a new cover edition. Financed by Steel Magnate, Andrew Carnegie, 25-year-old journalist Napoleon Hill began in 1908 to interview successful men and investigate their careers. All of this to detect what was special about them and to discover if there is a gene for success. Or perhaps, a law that allows us to identify in each individual the potential to succeed in life. In two decades, he heard from more than 16,000 people, including the 500 most important millionaires of the time. He researched the lives of great inventors and pioneers, such as Thomas Edison, Graham Bell, Henry Ford, Roosevelt, George Eastman, and Rockefeller. The result was The Law of Success: 16 Practical Lessons for Success, which taught, for the first time in world history, the true secret to personal success. José Olímpio has been publishing this extraordinary work for half a century, having already sold thousands of copies since its first edition. The admirable predominance of the book in the highly competitive management and self-help market is the greatest proof of its quality. With clarity and simplicity, Napoleon Hill has built a work that speaks directly to the aspirations and concerns of modern man. In The Law of Success: 16 Practical Lessons for Success, you will discover that everything the human mind can conceive and believe can be achieved. The cover may vary.</string>
+
+    <string name="sobrefazeramigos">
+The most successful personal development book of all time. Carnegie has never been so relevant. - The Times
+
+More than 16 million books sold.
+
+The principles taught in this book only work when they come from the heart. Iam not advocating a set of tricks. I am talking about a new way of life. If we inspire people to recognize their own hidden treasures, we can do much more than change them – we can literally transform them. - Dale Carnegie
+
+Over eight decades, this book has become the benchmark for human relations development, social skills, and effective communication.
+
+Starting from the principle that it is necessary to genuinely interest ourselves in those with whom we interact, it has changed the lives of millions of people, making them feel more secure, open, and confident in their social and professional encounters.
+
+With delightful stories, practical examples, and great advice, this is a pleasurable and essential read for anyone wishing to build strong bonds, become more persuasive, leave a positive mark, and inspire others with energy and kindness.</string>
+
+    <string name="sobreeclesiastes">Ecclesiastes deals with the insurmountable impossibility for human beings to find any meaning in life through personal achievements and worldly accomplishments. Throughout their journey from birth to the grave, they only encounter toil under the sun. This seemingly pessimistic view of life might leave some readers astonished, wondering why this book is in the Bible. Therefore, we need to learn to read and study Ecclesiastes through the filter of grace and the biblical doctrine of Gods sovereignty. When we do so, we will be led from despair and an apparent negative view of life to a worldview in which God is God and has control over everything that happens under the sun. Only then will life, with its ups and downs, start to make sense. It will cease to be mere "vanity," "futility," and instead become an invaluable gift from the Creator.</string>
+
+
+
+    <string name="sobrelivroohomemmaisricodababilonia" >
+As a young man, I came across George Samuel Clason s classic 1926 bookThe Richest Man in Babylon, which offered commonsense financial advice told through ancient parables. I recommend it to everyone. --Tony Robbins,Money: Master the Game
+
+The ancient Babylonians were the first people to discover the universal laws of prosperity. In his classic bestseller, "The Richest Man in Babylon," George S. Clason reveals their secrets for creating, growing, and preserving wealth.
+
+Through these entertaining tales of merchants, tradesmen, and herdsmen, you ll learn how to keep more out what you earn; get out of debt; put your money to work; attract good luck; choose wise investments; and safeguard a lasting fortune.
+    </string>
+
+    <string name="sobreaartedofodase" >In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be "positive" all the time so that we can truly become better, happier people.
+
+For decades, we’ve been told that positive thinking is the key to a happy, rich life. "F**k positivity," Mark Manson says. "Let’s be honest, shit is f**ked and we have to live with it." In his wildly popular Internet blog, Manson doesn’t sugarcoat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. The Subtle Art of Not Giving a F**k is his antidote to the coddling, let’s-all-feel-good mindset that has infected modern society and spoiled a generation, rewarding them with gold medals just for showing up.
+
+Manson makes the argument, backed both by academic research and well-timed poop jokes, that improving our lives hinges not on our ability to turn lemons into lemonade, but on learning to stomach lemons better. Human beings are flawed and limited—"not everybody can be extraordinary, there are winners and losers in society, and some of it is not fair or your fault." Manson advises us to get to know our limitations and accept them. Once we embrace our fears, faults, and uncertainties, once we stop running and avoiding and start confronting painful truths, we can begin to find the courage, perseverance, honesty, responsibility, curiosity, and forgiveness we seek.
+
+There are only so many things we can give a f**k about so we need to figure out which ones really matter, Manson makes clear. While money is nice, caring about what you do with your life is better, because true wealth is about experience. A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, The Subtle Art of Not Giving a F*ck is a refreshing slap for a generation to help them lead contented, grounded lives.
+    </string>
+
+</resources>

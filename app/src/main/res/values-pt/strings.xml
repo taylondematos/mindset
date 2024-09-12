@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Minutos de Sabedoria</string>
+    <string name="biblioteca">Biblioteca</string>
+    <string name="botaoLoja">Loja</string>
+    <string name="botaoNovaCitacao">Novo</string>
+    <string name="sobre">Sobre</string>
+    <string name="sobreoapp">Sobre</string>
+    <string name="avisoAds">"Um anúncio será exibido"</string>
+
+    //NOMES DOS LIVROS
+    <string name="aleidotriunfo">A Lei do Triunfo</string>
+    <string name="eclesiastes">Eclesiastes</string>
+    <string name="fazeramigos">Fazer Amigos</string>
+    <string name="pairicopaipobre">Pai Rico, Pai Pobre</string>
+    <string name="proverbios">Provérbios</string>
+    <string name="segredosdamentemilionaria">Mente Milionária</string>
+    <string name="ohomemmaisricodababilonia">O Homem Mais Rico</string>
+    <string name="aartedofodase">Ligar o F*da-Se</string>
+
+
+    ///MENSAGEM DE ERRO
+    <string name="falha">Aconteceu algo inesperado. Estamos trabalhando para corrigir o erro.</string>
+
+
+    //////////////////////LOJA
+    <string name="titulovisitarloja">"Visitar a Loja"</string>
+    <string name="mensagemvisitarloja">"A loja será aberta em seu navegador"</string>
+    <string name="botaosim">SIM</string>
+    <string name="botaonao">NÃO</string>
+
+
+    ///////////////COMPARTILHAMENTO
+    <string name="botaoCompartilhar">Enviar</string>
+    <string name="Paramaisfrasescomoesta">Para mais frases como esta:</string>
+    <string name="CompartilharTituloIntent">Compartilhar</string>
+    <string name="TextoCopiadoCasoFacebookColeotexto">"Texto Copiado. Caso Facebook: Cole o texto"</string>
+
+
+    //////////////////SOBRE OS LIVROS
+    <string name="sobreoapptexto">Cats House Development built the Sabedoria Diaria
+        app as an Ad Supported app. This SERVICE is provided by
+        Cats House Development at no cost and is intended for use as is.
+        This page is used to inform visitors regarding my policies with the collection,
+        use, and disclosure of Personal Information if anyone decided to use my Service.
+        If you choose to use my Service, then you agree to the collection and use of information
+        in relation to this policy. The Personal Information that I collect is used for providing
+        and improving the Service. I will not use or share your information with anyone except as
+        described in this Privacy Policy.  The terms used in this Privacy Policy have the same meanings
+        as in our Terms and Conditions, which are accessible at Sabedoria Diaria unless otherwise defined
+        in this Privacy Policy.  Information Collection and Use  For a better experience, while using our Service,
+        I may require you to provide us with certain personally identifiable information, including but not limited
+        to external storage, location. The information that I request will be retained on your device and is not collected
+        by me in any way.  The app does use third-party services that may collect information used to identify you.  Link to
+        the privacy policy of third-party service providers used by the app  Google Play Services AdMob Google Analytics for
+        Firebase Firebase Crashlytics Facebook Appodeal Log Data  I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.  Cookies  Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.  This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  Service Providers  I may employ third-party companies and individuals due to the following reasons:  To facilitate our Service; To provide the Service on our behalf; To perform Service-related services; or To assist us in analyzing how our Service is used. I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  Security  I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.  Links to Other Sites  This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.  Children’s Privacy  These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.  Changes to This Privacy Policy  I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.  This policy is effective as of 2022-05-12  Contact Us  If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at catshousedevelopment@hotmail.com.  This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+</string>
+
+
+    <string name="sobreproverbios">Manual de sabedoria para a vida
+
+O livro de Provérbios é um reservatório inesgotável de sabedoria. Não a sabedoria dos homens, mas a sabedoria de Deus. Os grandes temas da vida humana são aqui tratados como casamento, família, filhos, amizades, comunicação, dinheiro, trabalho e prosperidade. O livro alerta para os vários perigos que nos ameaçam, como más companhias, adultério, ganância, preguiça, mentira e injustiça. Além disso, o livro aborda de forma eloquente o relacionamento correto do homem com Deus, com o seu próximo e consigo mesmo. Estudar Provérbios é matricular-se na escola superior do Espírito Santo e aprender os eternos princípios de Deus para uma vida sábia, piedosa e bem-aventurada. A mensagem deste livro trará luz à sua mente e fogo ao seu coração.</string>
+
+    <string name="sobrepairico">A escola prepara as crianças para o mundo real?
+
+Essa é a primeira pergunta com a qual o leitor se depara neste livro. O recado é ousado e direto: boa formação e notas altas não bastam para assegurar o sucesso de alguém. O mundo mudou; a maioria dos jovens tem cartão de crédito, antes mesmo de concluir os estudos, e nunca teve aula sobre dinheiro, investimentos, juros etc. Ou seja, eles vão para a escola, mas continuam financeiramente improficientes, despreparados para enfrentar um mundo que valoriza mais as despesas do que a poupança. Para o autor, o conselho mais perigoso que se pode dar a um jovem nos dias de hoje é: “Vá para a escola, tire notas altas e depois procure um trabalho seguro.” O fato é que agora as regras são outras, e não existe mais emprego garantido para ninguém. Pai Rico, Pai Pobre demonstra que a questão não é ser empregado ou empregador, mas ter o controle do próprio destino ou delegá-lo a alguém. Esta é a tese de Robert Kiyosaki neste livro substancial e visionário. Ele acredita que a educação fornecida pelo sistema educacional não prepara os jovens para o mundo que encontrarão após a formatura. E como os pais podem ensinar aos filhos o que a escola negligencia? Esta é outra das muitas perguntas que o leitor encontra em Pai Rico, Pai Pobre. Nesse sentido, a proposta do autor é facilitar a tarefa dos pais. Aqueles que entendem de contabilidade devem esquecer seus conhecimentos acadêmicos, pois muitas das teorias expostas por Robert Kiyosaki contradizem os princípios contábeis comumente aceitos e apresentam uma percepção valiosa e moderna de como os investimentos são feitos. A sociedade passa por mudanças radicais, talvez de proporções maiores do que as que ocorreram em séculos passados. Não há bola de cristal, mas uma coisa é certa: a perspectiva global das transformações transcende nossa realidade imediata. Aconteça o que acontecer, existem apenas duas alternativas: segurança ou independência financeira. E o objetivo de Pai Rico, Pai Pobre é instruir o leitor e despertar sua inteligência financeira e a de seus filhos. A principal razão pela qual as pessoas têm problemas financeiros é que passaram anos na escola, mas não aprenderam nada sobre dinheiro. O resultado é que elas aprendem a trabalhar por dinheiro... mas nunca a fazê-lo trabalhar para elas. - Robert Kiyosaki.</string>
+
+    <string name="sobrementemilionaria">Aprenda a enriquecer mudando seus conceitos sobre dinheiro e adotando os hábitos das pessoas bem-sucedidas.
+
+T. Harv Eker desmistifica por que algumas pessoas estão destinadas à riqueza e outras a uma vida de dificuldades. Se você quer conhecer as causas fundamentais do sucesso, leia este livro. - Robert G. Allen, autor de O Milionário em um Minuto.
+
+Se suas finanças estão na corda bamba, talvez seja hora de você refletir sobre o que T. Harv Eker chama de seu modelo de dinheiro - um conjunto de crenças que cada um de nós nutre desde a infância e que molda nosso destino financeiro, frequentemente nos levando a situações difíceis.
+
+Neste livro, Eker mostra como substituir uma mentalidade destrutiva - que você talvez nem perceba que tem - pelos arquivos de riqueza, 17 maneiras de pensar e agir que distinguem os ricos dos demais. Alguns desses princípios fundamentais são:
+
+- Ou você controla seu dinheiro ou ele o controlará.
+- O hábito de administrar as finanças é mais importante do que a quantidade de dinheiro que você tem.
+- Sua motivação para enriquecer é crucial: se ela tiver uma raiz negativa, como medo, raiva ou a necessidade de provar algo para si mesmo, o dinheiro nunca lhe trará felicidade.
+- O segredo do sucesso não é tentar evitar problemas ou se livrar deles, mas crescer pessoalmente para se tornar maior do que qualquer adversidade.
+- Os gastos excessivos têm pouco a ver com o que você está comprando e tudo a ver com a falta de satisfação em sua vida.
+
+O autor também ensina um método eficiente de administrar o dinheiro. Você aprenderá a estabelecer sua remuneração com base nos resultados que apresenta, não nas horas que trabalha. Além disso, saberá como aumentar seu patrimônio líquido - a verdadeira medida de riqueza.
+
+A ideia é fazer seu dinheiro trabalhar para você tanto quanto você trabalha para ele. Para isso, é necessário poupar e investir em vez de gastar. "Enriquecer não diz respeito apenas a se tornar financeiramente rico", diz Eker. "É mais do que isso: trata-se da pessoa que você se torna para alcançar esse objetivo."
+
+</string>
+
+
+    <string name="sobrealeidotriunfo">16 lições práticas para o sucesso, um clássico atemporal em uma edição com nova capa. Financiado pelo Magnata do Aço, Andrew Carnegie, o jornalista de 25 anos, Napoleon Hill, começou em 1908 a entrevistar homens bem-sucedidos e a investigar suas carreiras. Tudo isso para detectar o que havia de especial neles e descobrir se existe um gene para o sucesso. Ou talvez, uma lei que nos permita identificar em cada indivíduo o potencial para vencer na vida. Em duas décadas, ele ouviu mais de 16 mil pessoas, incluindo os 500 milionários mais importantes da época. Ele pesquisou a vida de grandes inventores e pioneiros, como Thomas Edison, Graham Bell, Henry Ford, Roosevelt, George Eastman e Rockefeller. O resultado foi A Lei do Triunfo: 16 Lições Práticas para o Sucesso, que ensinou, pela primeira vez na história do mundo, o verdadeiro segredo do sucesso pessoal. A José Olímpio vem publicando esta obra extraordinária há meio século, tendo já vendido milhares de exemplares desde sua primeira edição. A admirável predominância do livro no mercado altamente competitivo de gerenciamento e autoajuda é a maior prova de sua qualidade. Com clareza e simplicidade, Napoleon Hill construiu uma obra que fala diretamente aos anseios e preocupações do homem moderno. Em A Lei do Triunfo: 16 Lições Práticas para o Sucesso, você descobrirá que tudo o que a mente humana pode conceber e acreditar pode ser alcançado. A capa pode variar.</string>
+
+    <string name="sobrefazeramigos">O livro de desenvolvimento pessoal mais bem-sucedido de todos os tempos. Carnegie nunca foi tão relevante. - The Times Mais de 16 milhões de livros vendidos. Os princípios ensinados neste livro só funcionam quando são de coração. Não estou defendendo um conjunto de truques. Estou falando sobre um novo estilo de vida. Se inspirarmos as pessoas a perceber os próprios tesouros ocultos, poderemos fazer bem mais do que mudá-las - poderemos literalmente transformá-las. - Dale Carnegie Ao longo de oito décadas, este livro se tornou a referência quando o assunto é o desenvolvimento das relações humanas, das habilidades sociais e da comunicação eficiente. Partindo do princípio de que é preciso se interessar genuinamente por aqueles com quem interagimos, ele mudou a vida de milhões de pessoas, fazendo-as se sentirem mais seguras, abertas e confiantes em seus encontros sociais e profissionais. Com saborosas histórias, exemplos práticos e ótimos conselhos, esta é uma leitura prazerosa e fundamental para quem deseja criar bons vínculos, se tornar mais persuasivo, deixar uma marca positiva e inspirar os outros com energia e gentileza.</string>
+
+    <string name="sobreeclesiastes">ECLESIASTES trata da impossibilidade intransponível de o ser humano encontrar qualquer sentido na vida nas realizações pessoais e nas conquistas deste mundo. Em sua jornada do berço à sepultura, ele só encontra fadigas debaixo do sol. Essa visão aparentemente pessimista da vida pode deixar alguns leitores espantados se perguntando por que esse livro está na Bíblia. Por isso, precisamos aprender a ler e a estudar Eclesiastes com o filtro da graça e da doutrina bíblica da soberania de Deus. Quando fizermos isso, seremos conduzidos do desespero e de uma aparente visão negativa da vida para uma cosmovisão na qual Deus é Deus e tem o controle de tudo o que se passa debaixo do sol. Somente então a vida, com seus altos e baixos, passará a ter sentido. Ela deixará de ser mera “vaidade”, “inutilidade”, para se tornar um dom inestimável do Criador.</string>
+
+    <string name="sobrelivroohomemmaisricodababilonia">
+Baseando-se nos segredos de sucesso dos antigos babilônicos: os habitantes da cidade mais rica e próspera de seu tempo, George S. Clason mostra soluções ao mesmo tempo sábias e muito atuais para evitar a falta de dinheiro, como não desperdiçar recursos durante tempos de opulência, buscar conhecimento e informação em vez de apenas lucro, assegurar uma renda para o futuro, manter a pontualidade no pagamento de dívidas e, sobretudo, cultivar as próprias aptidões, tornando-se cada vez mais habilidoso e consciente.
+    </string>
+
+    <string name="sobreaartedofodase">
+        Chega de tentar buscar um sucesso que só existe na sua cabeça. Chega de se torturar para pensar positivo enquanto sua vida vai ladeira abaixo. Chega de se sentir inferior por não ver o lado bom de estar no fundo do poço.
+
+Coaching, autoajuda, desenvolvimento pessoal, mentalização positiva - sem querer desprezar o valor de nada disso, a grande verdade é que às vezes nos sentimos quase sufocados diante da pressão infinita por parecermos otimistas o tempo todo. É um pecado social se deixar abater quando as coisas não vão bem. Ninguém pode fracassar simplesmente, sem aprender nada com isso. Não dá mais. É insuportável. E é aí que entra a revolucionária e sutil arte de ligar o foda-se.
+
+Mark Manson usa toda a sua sagacidade de escritor e seu olhar crítico para propor um novo caminho rumo a uma vida melhor, mais coerente com a realidade e consciente dos nossos limites. E ele faz isso da melhor maneira. Como um verdadeiro amigo, Mark se senta ao seu lado e diz, olhando nos seus olhos: você não é tão especial. Ele conta umas piadas aqui, dá uns exemplos inusitados ali, joga umas verdades na sua cara e pronto, você já se sente muito mais alerta e capaz de enfrentar esse mundo cão.
+
+Para os céticos e os descrentes, mas também para os amantes do gênero, enfim uma abordagem franca e inteligente que vai ajudar você a descobrir o que é realmente importante na sua vida, e f*da-se o resto. Livre-se agora da felicidade maquiada e superficial e abrace esta arte verdadeiramente transformadora.
+    </string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869265785229",
+    "project_id": "sabedoria-diaria",
+    "storage_bucket": "sabedoria-diaria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869265785229:android:3e38e16df6d6f72d963dc4",
+        "android_client_info": {
+          "package_name": "com.catshouse.sabedoriadiaria2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869265785229-beeqd0u762n74352lc91clpvghu9o5gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwXLkQODDRF_nxG2P225JmjZe2QcfkKrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869265785229-beeqd0u762n74352lc91clpvghu9o5gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6667338739750984~3403828272"
+    }
+  ],
+  "configuration_version": "1"
+}
